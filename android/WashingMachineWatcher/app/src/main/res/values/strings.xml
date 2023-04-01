@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WashingMachineWatcher</string>
+    <string name="tab_text_1">Simple</string>
+    <string name="tab_text_2">Advanced</string>
+</resources>
